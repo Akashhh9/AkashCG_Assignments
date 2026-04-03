@@ -1,0 +1,7 @@
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Desktop\CapGemini Training\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
