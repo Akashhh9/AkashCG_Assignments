@@ -1,0 +1,7 @@
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\WebApp0904.exe
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\WebApp0904.dll
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\WebApp0904.deps.json
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\WebApp0904.runtimeconfig.json
+D:\AkashAssignments_CG\Day64\WebApp0904\WebApp0904\obj\Release\net8.0\PubTmp\Out\WebApp0904.pdb

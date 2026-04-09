@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|d:\\akashcg_assignments\\week5\\april08-assignment\\productapiclient\\productapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|d:\\akashcg_assignments\\week5\\april08-assignment\\productapiclient\\productapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|d:\\akashcg_assignments\\week5\\april08-assignment\\productapiclient\\productapiclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|d:\\akashcg_assignments\\week5\\april08-assignment\\productapiclient\\productapiclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|d:\\akashcg_assignments\\week5\\april08-assignment\\productapiclient\\productapiclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|d:\\akashcg_assignments\\week5\\april08-assignment\\productapiclient\\productapiclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEA84F6-A917-05D6-0079-E8AF1908F28F}|ProductAPIClient\\ProductAPIClient.csproj|solutionrelative:productapiclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Program.cs",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Program.cs",
+              "RelativeToolTip": "ProductAPIClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:22:57.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T05:20:08.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T05:19:42.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPIClient\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:13:53.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T05:12:37.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPIClient\\appsettings.json",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April08-Assignment\\ProductAPIClient\\ProductAPIClient\\appsettings.json",
+              "RelativeToolTip": "ProductAPIClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T05:10:40.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

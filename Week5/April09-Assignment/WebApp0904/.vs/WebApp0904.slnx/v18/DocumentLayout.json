@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkashAssignments_CG\\Day64\\WebApp0904\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC424B7-3D40-4E8E-9B9F-BB2DE6DCBE5F}|WebApp0904\\WebApp0904.csproj|d:\\akashassignments_cg\\day64\\webapp0904\\webapp0904\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC424B7-3D40-4E8E-9B9F-BB2DE6DCBE5F}|WebApp0904\\WebApp0904.csproj|solutionrelative:webapp0904\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AkashAssignments_CG\\Day64\\WebApp0904\\WebApp0904\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp0904\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AkashAssignments_CG\\Day64\\WebApp0904\\WebApp0904\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp0904\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T08:57:41.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
