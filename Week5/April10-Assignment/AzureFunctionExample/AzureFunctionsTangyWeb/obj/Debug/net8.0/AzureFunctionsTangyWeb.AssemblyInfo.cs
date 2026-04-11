@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureFunctionsTangyWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde82f5962dc6cc9fde4ec7cf0e9fc20f47a70ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f28c2b4af235e3f41f3e06e5aa0b21cd5ea619c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureFunctionsTangyWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureFunctionsTangyWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
