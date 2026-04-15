@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|d:\\akashcg_assignments\\week6\\april13-assignment\\azurespookylogicapp\\azurespookylogicapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|solutionrelative:azurespookylogicapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|d:\\akashcg_assignments\\week6\\april13-assignment\\azurespookylogicapp\\azurespookylogicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|solutionrelative:azurespookylogicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|d:\\akashcg_assignments\\week6\\april13-assignment\\azurespookylogicapp\\azurespookylogicapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|solutionrelative:azurespookylogicapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|d:\\akashcg_assignments\\week6\\april13-assignment\\azurespookylogicapp\\azurespookylogicapp\\models\\spookyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92716204-C3F6-4ECE-BBA9-202BC3C17736}|AzureSpookyLogicApp\\AzureSpookyLogicApp.csproj|solutionrelative:azurespookylogicapp\\models\\spookyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Program.cs",
+              "RelativeDocumentMoniker": "AzureSpookyLogicApp\\Program.cs",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Program.cs",
+              "RelativeToolTip": "AzureSpookyLogicApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:57:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureSpookyLogicApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureSpookyLogicApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:56:05.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureSpookyLogicApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AzureSpookyLogicApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T05:54:18.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpookyRequest.cs",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Models\\SpookyRequest.cs",
+              "RelativeDocumentMoniker": "AzureSpookyLogicApp\\Models\\SpookyRequest.cs",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week6\\April13-Assignment\\AzureSpookyLogicApp\\AzureSpookyLogicApp\\Models\\SpookyRequest.cs",
+              "RelativeToolTip": "AzureSpookyLogicApp\\Models\\SpookyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:53:02.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

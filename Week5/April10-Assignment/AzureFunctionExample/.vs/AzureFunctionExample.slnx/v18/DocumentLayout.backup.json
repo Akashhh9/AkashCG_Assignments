@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,32 +23,28 @@
       "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\onqueuetriggerupdatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\onqueuetriggerupdatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\tangyazurefunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\tangyazurefunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\azurefunctionstangyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\azurefunctionstangyweb\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\tangyazurefunction\\tangyazurefunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08D4DA41-0328-8C1E-CDA7-6BD71B7E888C}|TangyAzureFunction\\TangyAzureFunction.csproj|solutionrelative:tangyazurefunction\\tangyazurefunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|d:\\akashcg_assignments\\week5\\april10-assignment\\azurefunctionexample\\azurefunctionstangyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,27 +68,25 @@
               "RelativeDocumentMoniker": "TangyAzureFunction\\OnQueueTriggerUpdateDatabase.cs",
               "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\OnQueueTriggerUpdateDatabase.cs",
               "RelativeToolTip": "TangyAzureFunction\\OnQueueTriggerUpdateDatabase.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T06:24:35.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T06:24:35.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TangyAzureFunction\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "TangyAzureFunction\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T06:11:34.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T06:11:34.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SalesRequest.cs",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\Models\\SalesRequest.cs",
               "RelativeDocumentMoniker": "TangyAzureFunction\\Models\\SalesRequest.cs",
@@ -96,12 +94,11 @@
               "RelativeToolTip": "TangyAzureFunction\\Models\\SalesRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T05:47:02.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T05:47:02.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TangyAzureFunction.csproj",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\TangyAzureFunction.csproj",
               "RelativeDocumentMoniker": "TangyAzureFunction\\TangyAzureFunction.csproj",
@@ -109,44 +106,29 @@
               "RelativeToolTip": "TangyAzureFunction\\TangyAzureFunction.csproj",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-10T05:31:37.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T05:31:37.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\Program.cs",
               "RelativeDocumentMoniker": "TangyAzureFunction\\Program.cs",
               "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\Program.cs",
               "RelativeToolTip": "TangyAzureFunction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T05:32:27.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T05:32:27.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T04:49:35.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Program.cs",
               "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Program.cs",
               "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Program.cs",
               "RelativeToolTip": "AzureFunctionsTangyWeb\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T04:49:01.683Z"
             },
@@ -158,14 +140,27 @@
               "RelativeDocumentMoniker": "TangyAzureFunction\\local.settings.json",
               "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\local.settings.json",
               "RelativeToolTip": "TangyAzureFunction\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-10T04:38:44.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:49:35.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OnSalesUploadWriteToQueue.cs",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\TangyAzureFunction\\OnSalesUploadWriteToQueue.cs",
               "RelativeDocumentMoniker": "TangyAzureFunction\\OnSalesUploadWriteToQueue.cs",
@@ -177,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Views\\Home\\Index.cshtml",
@@ -189,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "SalesRequest.cs",
               "DocumentMoniker": "D:\\AkashCG_Assignments\\Week5\\April10-Assignment\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Models\\SalesRequest.cs",
               "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Models\\SalesRequest.cs",

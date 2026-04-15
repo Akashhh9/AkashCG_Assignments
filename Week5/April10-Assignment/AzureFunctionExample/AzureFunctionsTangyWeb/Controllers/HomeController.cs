@@ -34,8 +34,8 @@ namespace AzureFunctionsTangyWeb.Controllers
         public async Task<IActionResult> Index(SalesRequest salesRequest)
         {
             using var client = _httpClientFactory.CreateClient();
-           // client.BaseAddress = new Uri("http://localhost:7048/api/OnSalesUploadWriteToQueue");
-            client.BaseAddress = new Uri("https://ashtangyfunc.azurewebsites.net/api/OnSalesUploadWriteToQueue");
+            client.BaseAddress = new Uri("http://localhost:7048/api/OnSalesUploadWriteToQueue");
+            //client.BaseAddress = new Uri("https://ashtangyfunc.azurewebsites.net/api/OnSalesUploadWriteToQueue");
 
             using (var content = new StringContent(JsonConvert.SerializeObject(salesRequest), System.Text.Encoding.UTF8, "application/json"))
             {
